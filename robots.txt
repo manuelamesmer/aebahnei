@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://agievahsh.spectre-code.org/sitemap.xml
